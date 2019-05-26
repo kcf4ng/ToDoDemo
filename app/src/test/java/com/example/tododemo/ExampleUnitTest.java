@@ -1,4 +1,4 @@
-package com.imedtac.tododemo;
+package com.example.tododemo;
 
 import org.junit.Test;
 
